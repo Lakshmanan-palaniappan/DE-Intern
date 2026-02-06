@@ -8,4 +8,4 @@ some more things from First Branch
 removed a line
 
 
-samples
+sample
