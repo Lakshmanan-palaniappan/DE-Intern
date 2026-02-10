@@ -1,1 +1,1 @@
-print("Sample File Edited")
+print("Sample File")
