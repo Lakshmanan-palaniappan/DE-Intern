@@ -2,6 +2,3 @@ This is a sample file
 
 Content from Main
 Content from Feature 1
-
-
-Reverting
