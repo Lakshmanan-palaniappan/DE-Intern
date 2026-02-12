@@ -59,9 +59,6 @@ if __name__ =="__main__":
     non_local = make_counter()
     print(non_local())
     print(non_local())
-    
     global_kw=make_counter_1()
     print(global_kw())
     print(global_kw())
-    
-    
