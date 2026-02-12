@@ -1,5 +1,4 @@
 # This is a function file, in this i will be writing many functions and use it as module somewhere else
-
 def add(v1,v2):
     return v1+v2
 
@@ -59,9 +58,6 @@ if __name__ =="__main__":
     non_local = make_counter()
     print(non_local())
     print(non_local())
-    
     global_kw=make_counter_1()
     print(global_kw())
     print(global_kw())
-    
-    
