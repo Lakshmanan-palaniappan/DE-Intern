@@ -1,18 +1,2 @@
-This is a sample file
-
-Content from Main
-
-Content from Feature 1
-
-Reverting
-
-
-
-Revert 3
-
-Revert 4
-
-Revert 
-
-
-This is a file
+Hello
+World
