@@ -1,2 +1,3 @@
-with open("file.txt","r",encoding="utf-8") as f:
-#     print(f)
+def __init__(self,bal,pin):
+        self.bal=bal
+        self.pin=pin
